@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: This is the personal homepage of Mugen Machigashira,
+description: Personal profiles etc.
+plugins:
+ - jemoji
